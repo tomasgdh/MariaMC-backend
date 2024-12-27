@@ -1,0 +1,12 @@
+{
+  "providerId": "Microsoft.Tools.ServiceModel.Svcutil",
+  "version": "2.1.0",
+  "options": {
+    "inputs": [
+      "https://awshomo.afip.gov.ar/sr-padron/webservices/personaServiceA13?wsdl"
+    ],
+    "outputFile": "Reference.cs",
+    "targetFramework": "net7.0",
+    "typeReuseMode": "All"
+  }
+}

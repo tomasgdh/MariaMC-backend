@@ -1,0 +1,16 @@
+# Extensions to ignore 
+*.pdb
+*.user 
+*.Publish.xml 
+*.suo
+#*.config
+
+# Folders to ignore 
+
+*.bak
+*.config
+*.tmp
+*/bin
+*/obj
+*/.vs
+.vs/
