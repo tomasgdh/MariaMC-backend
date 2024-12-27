@@ -1,123 +1,125 @@
 ﻿{
-   "CodeGenerationMode": 3,
-   "ContextClassName": "Maria_MCContext",
-   "ContextNamespace": null,
-   "DefaultDacpacSchema": null,
-   "FilterSchemas": false,
-   "IncludeConnectionString": false,
-   "ModelNamespace": null,
-   "OutputContextPath": null,
-   "OutputPath": "Models",
-   "PreserveCasingWithRegex": true,
-   "ProjectRootNamespace": "Data",
-   "Schemas": null,
-   "SelectedHandlebarsLanguage": 2,
-   "SelectedToBeGenerated": 0,
-   "T4TemplatePath": null,
-   "Tables": [
-      {
-         "Name": "[dbo].[Clientes]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Compras]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Comprobante]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[ComprasDetalle]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[CuentaCorriente]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Empleados]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Gastos]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Productos]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Sessions]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Sucursales]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[TipoFormasDePago]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[TiposDeGasto]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[TiposDeMovimiento]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[TiposDocumento]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[TipoMarca]",
-         "ObjectType": 0
-      },     {
-         "Name": "[dbo].[TiposProducto]",
-         "ObjectType": 0
-      },     {
-         "Name": "[dbo].[TipoTalle]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Usuarios]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[Venta]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[VentaDetalle]",
-         "ObjectType": 0
-      },
-      {
-         "Name": "[dbo].[VentaFormasDePago]",
-         "ObjectType": 0
-      }
-   ],
-   "UiHint": "nb0001247932\\sqlexpress.Maria_MC.dbo",
-   "UncountableWords": null,
-   "UseBoolPropertiesWithoutDefaultSql": false,
-   "UseDatabaseNames": false,
-   "UseDateOnlyTimeOnly": false,
-   "UseDbContextSplitting": true,
-   "UseDecimalDataAnnotationForSprocResult": true,
-   "UseFluentApiOnly": false,
-   "UseHandleBars": false,
-   "UseHierarchyId": false,
-   "UseInflector": true,
-   "UseLegacyPluralizer": false,
-   "UseManyToManyEntity": false,
-   "UseNoDefaultConstructor": false,
-   "UseNoNavigations": false,
-   "UseNoObjectFilter": false,
-   "UseNodaTime": false,
-   "UseNullableReferences": false,
-   "UseSchemaFolders": false,
-   "UseSchemaNamespaces": false,
-   "UseSpatial": false,
-   "UseT4": false
+  "CodeGenerationMode": 3,
+  "ContextClassName": "Maria_MCContext",
+  "ContextNamespace": null,
+  "DefaultDacpacSchema": null,
+  "FilterSchemas": false,
+  "IncludeConnectionString": false,
+  "ModelNamespace": null,
+  "OutputContextPath": null,
+  "OutputPath": "Models",
+  "PreserveCasingWithRegex": true,
+  "ProjectRootNamespace": "Data",
+  "Schemas": null,
+  "SelectedHandlebarsLanguage": 2,
+  "SelectedToBeGenerated": 0,
+  "T4TemplatePath": null,
+  "Tables": [
+    {
+      "Name": "[dbo].[Clientes]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Compras]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Comprobante]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[ComprasDetalle]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[CuentaCorriente]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Empleados]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Gastos]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Productos]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Sessions]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Sucursales]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[TipoFormasDePago]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[TiposDeGasto]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[TiposDeMovimiento]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[TiposDocumento]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[TipoMarca]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[TiposProducto]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[TipoTalle]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Usuarios]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Venta]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[VentaDetalle]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[VentaFormasDePago]",
+      "ObjectType": 0
+    }
+  ],
+  "UiHint": "LAPTOP-H5E6U200.Maria_MC.dbo",
+  "UncountableWords": null,
+  "UseBoolPropertiesWithoutDefaultSql": false,
+  "UseDatabaseNames": false,
+  "UseDateOnlyTimeOnly": false,
+  "UseDbContextSplitting": true,
+  "UseDecimalDataAnnotationForSprocResult": true,
+  "UseFluentApiOnly": false,
+  "UseHandleBars": false,
+  "UseHierarchyId": false,
+  "UseInflector": true,
+  "UseLegacyPluralizer": false,
+  "UseManyToManyEntity": false,
+  "UseNoDefaultConstructor": false,
+  "UseNoNavigations": false,
+  "UseNoObjectFilter": false,
+  "UseNodaTime": false,
+  "UseNullableReferences": false,
+  "UseSchemaFolders": false,
+  "UseSchemaNamespaces": false,
+  "UseSpatial": false,
+  "UseT4": false
 }
